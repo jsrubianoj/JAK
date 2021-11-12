@@ -1,0 +1,5 @@
+Soy Sebastián Rubiano, ingeniero civil con alto interés en la programación. Estoy interesado en el desarrollo web, especialmente en aplicaciones de front-end, 
+ciencia de datos, GIS y BIM. Actualmente estoy aprendiendo JavaScript y Python con aplicaciones para Data Science y GIS Mapping. También estoy desarrollando un par de proyectos con 
+Javascript y React. Me interesa colaborar en proyectos de ciencia de datos y desarrollo web.
+
+Linkedin: https://www.linkedin.com/in/jsrubianoj/
