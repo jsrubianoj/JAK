@@ -6,7 +6,8 @@
     "graph-tools": "^0.1.2",
     "graphql": "^16.0.1",
     "graphql-tools": "^8.2.0",
-    "mongo": "^0.1.0"
+    "mongo": "^0.1.0",
+    "nodemon": "^2.0.15"
   },
   "devDependencies": {
     "standard": "^16.0.4"
