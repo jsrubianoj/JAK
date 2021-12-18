@@ -29,7 +29,7 @@ type Query {
     "Devuelve un proyecto"
     getProject(id: ID!): Project
     "Devuelve todos los Estudiantes"
-    getStudents: [Student]
+    getStudents: [User]
     "Devuelve todas las solicitudes"
     getRequests: [Request]
 }
@@ -75,7 +75,9 @@ type Mutation{
     "Editar un proyecto"
     editProject(_id: ID!, input: ProjectInput!): Project
     "Editar el estado del usuario"
-    editUserStatus(_id: ID!, input: UserStatus!): User
+    editUserState(_id: ID!, input: UserStatus!): User
+    "Editar el estado de la solicitud"
+    editRequest(_id: ID!, input: UserStatus!): Request
     "Editar información personal de un usuario"
     editUserPersonalInfo(_id: ID!, input: UserPersonalInfo!): User
 }
