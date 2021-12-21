@@ -1,0 +1,29 @@
+#titulo {
+    text-align: center;
+
+}
+
+.texto {
+    color: black;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.centerbutton {
+    display:center;
+    color: white;
+    background-color: rgb(16,137,254,255);
+}
+
+.gestion {
+
+    border-style: outset;
+    border-color: rgba(255, 255, 255, 0.103);
+    border-radius: 5px;
+    border-width: 5px;
+    margin: 10px 500px 100px;
+    
+}
