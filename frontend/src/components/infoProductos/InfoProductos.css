@@ -1,0 +1,30 @@
+td a{
+    text-decoration: none;
+}
+
+tbody tr:hover{
+    transition: 0.15s;
+    background-color: rgb(238, 238, 238);
+}
+
+.bg-color{
+    background-color:  rgb(16,137,254,255);
+    color: white;
+}
+
+.btn-add{
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.btn-add{
+    text-decoration: none;
+}
+
+.btn-add:hover{
+    transition: 0.2s;
+    background-color: rgb(136, 128, 252);
+    color: white;
+}
+
